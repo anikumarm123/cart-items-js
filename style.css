@@ -1,0 +1,31 @@
+.flx{
+    display: flex;
+}
+.space{
+    width: 70%;
+}
+.flx-1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    
+}
+.flx-2{
+    display: flex;
+    justify-content: space-around;
+}
+.image img{
+    width: 200px;
+    height: 200px;
+}
+
+.txt,strong,h1{
+    text-align: center;
+    margin-left: 20px;
+    line-height: 20px;
+}
+#cng-btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
